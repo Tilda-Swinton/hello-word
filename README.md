@@ -1,3 +1,2 @@
 # hello-word
 print('Hello word!')
-print
